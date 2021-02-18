@@ -1,0 +1,27 @@
+{
+  "name": "gogodiet",
+  "version": "0.0.1",
+  "description": "Daniel, Lyon, Yanbing",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanArMul/A5.git"
+  },
+  "keywords": [
+    "healthy",
+    "eating"
+  ],
+  "author": "Daniel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanArMul/A5/issues"
+  },
+  "homepage": "https://github.com/DanArMul/A5#readme"
+}
